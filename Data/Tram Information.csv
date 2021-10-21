@@ -1,0 +1,86 @@
+﻿Linefrom,Lineto,Route,Tram Number,Geometry
+Glen Iris,Moreland,Moreland Station,6,LineString
+Moreland,Glen Iris,Malvern Depot via High Street,6,MultiLineString
+East Coburg,South Melbourne Beach,South Melbourne Beach,1,LineString
+South Melbourne Beach,East Coburg,East Coburg,1,MultiLineString
+West Coburg,Toorak,Toorak - West Coburg,58,MultiLineString
+Toorak,West Coburg,Toorak - West Coburg,58,LineString
+East Brunswick,St Kilda Beach,Southbank Depot,96,LineString
+St Kilda Beach,East Brunswick,East Brunswick via City,96,LineString
+Victoria Harbour Docklands,North Balwyn,North Balwyn via Bridge Road,48,LineString
+West Preston,Victoria Harbour Docklands,Victoria Harbour via Collins Street,11,LineString
+Victoria Harbour Docklands,West Preston,West Preston via Brunswick St,11,LineString
+North Balwyn,Victoria Harbour Docklands,Victoria Harbour via Bridge Road,48,MultiLineString
+West Preston,Victoria Harbour Docklands,Victoria Harbour via Collins Street,11,LineString
+"Flinders Street Station, City",North Coburg,North Coburg,19,LineString
+"Flinders Street Station, City",Airport West,Airport West,59,LineString
+"Flinders Street Station, City",West Maribyrnong,West Maribyrnong via North Melbourne,57,LineString
+Airport West,Flinders Street Station (City),City via Elizabeth Street,59,MultiLineString
+Airport West,Flinders Street Station (City),City via North Melbourne,59,LineString
+Airport West,Flinders Street Station (City),City via Elizabeth Street,59,LineString
+North Coburg,Flinders Street Station (City),City via Elizabeth Street,19,LineString
+West Maribyrnong,Flinders Street Station (City),City via North Melbourne,57,LineString
+Bundoora RMIT,Waterfront City Docklands,Waterfront City via Smith Street,86,MultiLineString
+Waterfront City Docklands,Bundoora RMIT,Bundoora RMIT via Smith Street,86,MultiLineString
+Bundoora RMIT,Waterfront City Docklands,Waterfront City via Smith Street,86,MultiLineString
+Toorak,West Coburg,Toorak - West Coburg,58,LineString
+West Coburg,Toorak,Abbotsford St Interchange,58,LineString
+Carnegie,Melbourne University,Melbourne University,67,LineString
+East Brighton,Melbourne University,Glenhuntly Depot,64,LineString
+East Malvern,Melbourne University,Melbourne University,3/3a,LineString
+Kew,Melbourne University via St Kilda Beach,Melbourne University via St Kilda,16,LineString
+Kew,Melbourne University via St Kilda Beach,Melbourne University via St Kilda,16,LineString
+Melbourne University,Kew via St Kilda Beach,Kew via St Kilda,16,MultiLineString
+Melbourne University,Kew via St Kilda Beach,Malvern Depot via St Kilda,16,MultiLineString
+Melbourne University,East Malvern,East Malvern via St Kilda,3/3a,MultiLineString
+St Kilda Beach,East Brunswick,East Brunswick via City,96,LineString
+St Kilda Beach,East Brunswick,Southbank Depot,96,LineString
+East Brunswick,St Kilda Beach,St Kilda Beach via City,96,LineString
+East Brunswick,St Kilda Beach,St Kilda Beach via City,96,LineString
+Victoria Gardens,St Kilda (Fitzroy St),St Kilda - FitztroySt via Latrobe St,12,LineString
+St Kilda (Fitzroy St),Victoria Gardens,Southbank Depot,12,LineString
+Victoria Gardens,St Kilda (Fitzroy St),St Kilda - FitztroySt via Latrobe St,12,LineString
+St Kilda (Fitzroy St),Victoria Gardens,Victoria Gardens via Latrobe St,12,LineString
+Moreland,Glen Iris,Glen Iris,6,MultiLineString
+Glen Iris,Moreland,Moreland Station,6,LineString
+Melbourne University,Camberwell,Mavlern Depot via Malvern Rd,72,MultiLineString
+West Coburg,Toorak,Toorak - West Coburg,58,MultiLineString
+Toorak,West Coburg,Abbotsford St Interchange,58,LineString
+Port Melbourne,Box Hill,Kew Depot,109,LineString
+Box Hill,Port Melbourne,Port Melbourne via City,109,LineString
+Vermont South,Etihad Stadium Docklands,City - Spencer Street,75,MultiLineString
+Etihad Stadium Docklands,Vermont South,Camberwell Depot via Bridge Road,75,MultiLineString
+Waterfront City Docklands,Wattle Park,Camberwell Depot via Swan Street,70,LineString
+Wattle Park,Waterfront City Docklands,Waterfront City via Swan Street,70,LineString
+Victoria Gardens,St Kilda (Fitzroy St),Southbank Depot,12,LineString
+St Kilda (Fitzroy St),Victoria Gardens,Victoria Gardens via Latrobe St,12,LineString
+Clockwise,Clockwise,City Circle,35,MultiLineString
+Anticlockwise,Anticlockwise,City Circle,35,MultiLineString
+Etihad Stadium Docklands,St Vincents Plaza,St Vincents Plaza via La Trobe Street,30,LineString
+St Vincents Plaza,Etihad Stadium Docklands,Docklands via La Trobe Street,30,LineString
+St Vincents Plaza,Etihad Stadium Docklands,Latrobe & Spencer,30,LineString
+Etihad Stadium Docklands,Vermont South,Vermonth South (Knox Transit Link),75,MultiLineString
+Vermont South,Etihad Stadium Docklands,City - Spencer Street,75,MultiLineString
+Port Melbourne,Box Hill,Box Hill via City,109,LineString
+Box Hill,Port Melbourne,Port Melbourne via City,109,LineString
+Waterfront City Docklands,Wattle Park,Wattle Park via Swan Street,70,LineString
+Wattle Park,Waterfront City Docklands,Waterfront City via Swan Street,70,LineString
+Carnegie,Melbourne University,Melbourne University,67,LineString
+Melbourne University,Carnegie,Carnegie,67,MultiLineString
+East Malvern,Melbourne University,Melbourne University via St Kilda,3/3a,MultiLineString
+Melbourne University,East Malvern,East Malvern via St Kilda,3/3a,MultiLineString
+East Malvern,Melbourne University,Melbourne University,3/3a,MultiLineString
+Melbourne University,East Malvern,East Malvern,3/3a,MultiLineString
+Melbourne University,Malvern (Burke Road),Malvern via Wattletree Road,5,MultiLineString
+Malvern (Burke Road),Melbourne University,Melbourne University,5,LineString
+Melbourne University,Malvern (Burke Road),Malvern via Wattletree Road,5,MultiLineString
+Malvern (Burke Road),Melbourne University,Melbourne University,5,LineString
+Malvern (Burke Road),Melbourne University,Melbourne University,5,LineString
+Melbourne University,Camberwell,Camberwell,72,MultiLineString
+Camberwell,Melbourne University,Melbourne University,72,LineString
+Camberwell,Melbourne University,Melbourne University,72,LineString
+East Brighton,Melbourne University,Melbourne University,64,LineString
+Melbourne University,East Brighton,East Brighton,64,MultiLineString
+Melbourne University,Kew via St Kilda Beach,Malvern Depot via St Kilda,16,MultiLineString
+Kew,Melbourne University via St Kilda Beach,City - Flinders & Swanston Streets,16,LineString
+Melbourne University,Kew via St Kilda Beach,Kew via St Kilda,16,MultiLineString

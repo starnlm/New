@@ -1,0 +1,341 @@
+STATIONNAM,longitude,latitude,ZONES,STOPMODENA
+Riddells Creek,144.679834,-37.46511382,"2,3,Reg",V/Line Train
+Rochester,144.6986891,-36.36234981,Reg,V/Line Train
+Rosedale,146.7869706,-38.15638997,"14,Reg",V/Line Train
+Sale,147.0548075,-38.10309199,Reg,V/Line Train
+Seymour,145.137739,-37.02471184,"6,7,Reg",V/Line Train
+Shepparton,145.406506,-36.38378186,Reg,V/Line Train
+South Geelong,144.358993,-38.1586468,"4,Reg",V/Line Train
+Springhurst,146.4704269,-36.18588093,Reg,V/Line Train
+Stratford,147.0814736,-37.96703399,Reg,V/Line Train
+Swan Hill,143.5623534,-35.34109973,Reg,V/Line Train
+Tallarook,145.103008,-37.09231884,"5,6,Reg",V/Line Train
+Terang,142.9114733,-38.23620171,Reg,V/Line Train
+Trafalgar,146.1547757,-38.20722592,"8,9,Reg",V/Line Train
+Traralgon,146.5378896,-38.19887595,"12,13,Reg",V/Line Train
+Tynong,145.6282368,-38.08498088,"3,4,Reg",V/Line Train
+Violet Town,145.7159319,-36.63880388,"13,14,Reg",V/Line Train
+Wandong,145.02642,-37.35466284,2,V/Line Train
+Wangaratta,146.3170469,-36.35508892,Reg,V/Line Train
+Warragul,145.9330957,-38.16521391,"6,7,Reg",V/Line Train
+Warrnambool,142.4755533,-38.38500168,Reg,V/Line Train
+Winchelsea,143.9841431,-38.24011977,"8,Reg",V/Line Train
+Wodonga,146.8712728,-36.10581596,Reg,V/Line Train
+Woodend,144.5258991,-37.3587898,"4,5,Reg",V/Line Train
+Yarragon,146.0630707,-38.20314192,"8,Reg",V/Line Train
+Wagga Wagga,147.3686158,-35.120547,Reg,V/Line Train
+Cootamundra,148.0302858,-34.64192704,Reg,V/Line Train
+Goulburn,149.7194455,-34.75859719,Reg,V/Line Train
+Central,151.2063954,-33.88637732,Reg,V/Line Train
+Strathfield,151.0930654,-33.87304731,Reg,V/Line Train
+Campbelltown,150.8130655,-34.06554728,Reg,V/Line Train
+Moss Vale,150.3716755,-34.54804724,Reg,V/Line Train
+Yass Junction,148.9152396,-34.80894112,Reg,V/Line Train
+Harden,148.3715618,-34.55357607,Reg,V/Line Train
+The Rock,147.1186979,-35.27170698,Reg,V/Line Train
+Junee,147.5836158,-34.87054701,Reg,V/Line Train
+Henty,147.0353189,-35.51762297,Reg,V/Line Train
+Culcairn,147.0381358,-35.66608897,Reg,V/Line Train
+Southern Cross,144.9514149,-37.81791984,1,Train
+Flinders Street,144.9669739,-37.81829584,"1,Reg",V/Line Train
+North Melbourne,144.9415159,-37.80629584,"1,Reg",V/Line Train
+Footscray,144.9020289,-37.80139683,"1,Reg",V/Line Train
+Sunshine,144.832887,-37.78852383,"1,2,Reg",V/Line Train
+Ginifer,144.810074,-37.75798183,"2,Reg",V/Line Train
+St Albans,144.800056,-37.74484683,"2,Reg",V/Line Train
+Watergardens,144.774192,-37.70111482,"2,Reg",V/Line Train
+Richmond,144.9901659,-37.82405684,"1,Reg",V/Line Train
+Caulfield,145.0425259,-37.87744684,"1,Reg",V/Line Train
+Clayton,145.1205369,-37.92466985,"2,Reg",V/Line Train
+Dandenong,145.2097339,-37.98995485,"2,Reg",V/Line Train
+Berwick,145.3457258,-38.04039686,"2,Reg",V/Line Train
+Pakenham,145.4863758,-38.08059687,"2,Reg",V/Line Train
+Essendon,144.916206,-37.75599683,"1,Reg",V/Line Train
+Broadmeadows,144.919616,-37.68303683,"2,Reg",V/Line Train
+Sherwood Park,142.5405663,-38.38637669,Reg,V/Line Train
+Roxburgh Park,144.935413,-37.63821983,2,Train
+Craigieburn,144.943331,-37.60179983,2,Train
+Wendouree,143.8200682,-37.53969976,"8,Reg",V/Line Train
+Coolaroo,144.926059,-37.66098783,2,Train
+Creswick,143.8881282,-37.42459176,"9,Reg",V/Line Train
+Clunes,143.7815802,-37.30312976,"11,12,Reg",V/Line Train
+Maryborough,143.7424052,-37.05089875,"14,Reg",V/Line Train
+Gunning,149.2616216,-34.77964115,Reg,V/Line Train
+Lynbrook,145.2492859,-38.05733186,2,Train
+Cardinia Road,145.4377998,-38.07127487,2,Train
+South Morang,145.0670439,-37.64914784,2,Train
+Williams Landing,144.747452,-37.86985482,2,Train
+Talbot,143.7056412,-37.17288875,Reg,V/Line Train
+Waurn Ponds,144.306826,-38.21579679,"4,Reg",V/Line Train
+Epsom,144.3210422,-36.70632979,"13,Reg",V/Line Train
+Wyndham Vale,144.608483,-37.87176981,"2,Reg",V/Line Train
+Tarneit,144.694722,-37.83215582,"2,Reg",V/Line Train
+Caroline Springs,144.738029,-37.76713982,"2,Reg",V/Line Train
+Flemington Racecourse,144.9075979,-37.78718583,1,Train
+Showgrounds,144.9142639,-37.78346183,1,Train
+Sunbury,144.727326,-37.57907882,2,Train
+Diggers Rest,144.719924,-37.62699982,2,Train
+Wallan,145.005383,-37.41684684,2,V/Line Train
+Stony Point,145.2218478,-38.37422486,2,Train
+Crib Point,145.2040528,-38.36610686,2,Train
+Morradoo,145.1896118,-38.35402185,2,Train
+Bittern,145.1780318,-38.33737685,2,Train
+Hastings,145.1859848,-38.30564685,2,Train
+Tyabb,145.1864078,-38.25980385,2,Train
+Somerville,145.1762519,-38.22532785,2,Train
+Baxter,145.1605309,-38.19403385,2,Train
+Glen Iris,145.0582289,-37.85929284,1,Train
+Leawarra,145.1395409,-38.15202285,2,Train
+Darling,145.0629519,-37.86894284,"1,2",Train
+East Malvern,145.0694029,-37.87691684,"1,2",Train
+Holmesglen,145.0906629,-37.87438785,"1,2",Train
+Jordanville,145.1120949,-37.87358585,2,Train
+Flagstaff,144.9556589,-37.81196484,1,Train
+Melbourne Central,144.9626049,-37.80992284,1,Train
+Parliament,144.9729129,-37.81104184,1,Train
+Belgrave,145.3552969,-37.90908586,2,Train
+Tecoma,145.3430049,-37.90810286,2,Train
+Upwey,145.3313409,-37.90367886,2,Train
+Alamein,145.0796649,-37.86830385,1,Train
+Ashburton,145.0813469,-37.86195485,1,Train
+Burwood,145.0805139,-37.85154784,1,Train
+Hartwell,145.0755669,-37.84397084,1,Train
+Willison,145.0703039,-37.83569884,1,Train
+Riversdale,145.0696539,-37.83148884,1,Train
+Camberwell,145.0586979,-37.82655084,1,Train
+Flinders Street,144.9669729,-37.81829484,1,Train
+Frankston,145.1261719,-38.14297385,2,Train
+Kananook,145.1352969,-38.12172685,2,Train
+Seaford,145.1282339,-38.10400385,2,Train
+Carrum,145.1224199,-38.07488285,2,Train
+Bonbeach,145.1196879,-38.06293185,2,Train
+Chelsea,145.1160419,-38.05194585,2,Train
+Edithvale,145.1085449,-38.03804085,2,Train
+Aspendale,145.1021569,-38.02720885,2,Train
+Mordialloc,145.0876619,-38.00657385,2,Train
+Parkdale,145.0763359,-37.99306385,2,Train
+Mentone,145.0651769,-37.98185184,2,Train
+Cheltenham,145.0545629,-37.96663984,2,Train
+Upper Ferntree Gully,145.3075309,-37.89265986,2,Train
+Ferntree Gully,145.2952599,-37.88168386,2,Train
+Boronia,145.2843869,-37.86043986,2,Train
+Bayswater,145.2681429,-37.84171486,2,Train
+Heathmont,145.2445589,-37.82830486,2,Train
+Highett,145.0418779,-37.94841284,2,Train
+Glen Waverley,145.1620689,-37.87948885,2,Train
+Syndal,145.1497819,-37.87621485,2,Train
+Mount Waverley,145.1280629,-37.87523785,2,Train
+Lilydale,145.3477179,-37.75550286,2,Train
+Mooroolbark,145.3124099,-37.78473586,2,Train
+Croydon,145.2805999,-37.79542786,2,Train
+Ringwood East,145.2501989,-37.81195486,2,Train
+Pakenham,145.4863798,-38.08059887,2,Train
+Officer,145.4109978,-38.06612887,2,Train
+Beaconsfield,145.3660748,-38.05081487,2,Train
+Berwick,145.3457268,-38.04039686,2,Train
+Narre Warren,145.3039729,-38.02779586,2,Train
+Hallam,145.2697789,-38.01772986,2,Train
+Cranbourne,145.2806008,-38.09952686,2,Train
+Merinda Park,145.2635129,-38.07898986,2,Train
+Dandenong,145.2097339,-37.98995485,2,Train
+Yarraman,145.1916029,-37.97823985,2,Train
+Noble Park,145.1769419,-37.96722285,2,Train
+Sandown Park,145.1628289,-37.95648785,2,Train
+East Camberwell,145.0681949,-37.82587884,1,Train
+Canterbury,145.0812319,-37.82447584,"1,2",Train
+Chatham,145.0886589,-37.82429085,"1,2",Train
+Surrey Hills,145.0987839,-37.82413085,"1,2",Train
+Mont Albert,145.1055389,-37.81941385,"1,2",Train
+Laburnum,145.1407109,-37.82076385,2,Train
+Blackburn,145.1500199,-37.82005585,2,Train
+Nunawading,145.1748959,-37.82058585,2,Train
+Mitcham,145.1919789,-37.81799985,2,Train
+Heatherdale,145.2127909,-37.81888285,2,Train
+Ringwood,145.2289759,-37.81587685,2,Train
+Auburn,145.0458479,-37.82238484,1,Train
+Glenferrie,145.0364439,-37.82145284,1,Train
+Hawthorn,145.0229029,-37.82181084,1,Train
+Burnley,145.0075589,-37.82754484,1,Train
+East Richmond,144.9970739,-37.82638984,1,Train
+Richmond,144.9901669,-37.82405884,1,Train
+Heyington,145.0226389,-37.83465684,1,Train
+Kooyong,145.0335559,-37.83991284,1,Train
+Tooronga,145.0417399,-37.84935684,1,Train
+Gardiner,145.0516659,-37.85326984,1,Train
+Springvale,145.1534569,-37.94949885,2,Train
+Westall,145.1388399,-37.93847885,2,Train
+Clayton,145.1205369,-37.92466985,2,Train
+Huntingdale,145.1023699,-37.91100385,"1,2",Train
+Oakleigh,145.0883189,-37.90035485,"1,2",Train
+Hughesdale,145.0776449,-37.89486384,"1,2",Train
+Murrumbeena,145.0673839,-37.89018284,1,Train
+Carnegie (Temporarily Closed),145.0585819,-37.88622384,1,Train
+Werribee,144.661122,-37.89936882,2,Train
+Hoppers Crossing,144.700966,-37.88326582,2,Train
+Laverton,144.772621,-37.86367982,"1,2",Train
+Aircraft,144.760815,-37.86658882,2,Train
+Westona,144.813495,-37.86515183,"1,2",Train
+Altona,144.829653,-37.86713783,"1,2",Train
+Seaholme,144.840963,-37.86782983,1,Train
+Westgarth,144.9992369,-37.78060484,1,Train
+Dennis,145.0082459,-37.77916984,1,Train
+Fairfield,145.0169089,-37.77916084,1,Train
+Alphington,145.0312569,-37.77838284,1,Train
+Darebin,145.0384819,-37.77494884,1,Train
+Ivanhoe,145.0454319,-37.76888484,"1,2",Train
+Eaglemont,145.0539519,-37.76357284,"1,2",Train
+Heidelberg,145.0606959,-37.75706184,"1,2",Train
+Rosanna,145.0661459,-37.74286184,2,Train
+Moorabbin,145.0367449,-37.93433584,2,Train
+Patterson,145.0354739,-37.92513284,2,Train
+Bentleigh,145.0369969,-37.91741384,"1,2",Train
+McKinnon,145.0383079,-37.91029284,"1,2",Train
+Ormond,145.0396139,-37.90319784,"1,2",Train
+Glenhuntly,145.0422239,-37.88970384,1,Train
+Caulfield,145.0425279,-37.87744384,1,Train
+Malvern,145.0292989,-37.86623684,1,Train
+Armadale,145.0193339,-37.85643884,1,Train
+Toorak,145.0139129,-37.85075684,1,Train
+Hawksburn,145.0021429,-37.84458084,1,Train
+Sandringham,145.0045719,-37.95031484,2,Train
+Hampton,145.0014719,-37.93795984,2,Train
+Brighton Beach,144.9891629,-37.92646884,"1,2",Train
+Middle Brighton,144.9963039,-37.91512184,"1,2",Train
+North Brighton,145.0026099,-37.90486984,"1,2",Train
+Gardenvale,145.0041709,-37.89667984,1,Train
+Elsternwick,145.0009079,-37.88473884,1,Train
+Ripponlea,144.9952399,-37.87589484,1,Train
+Balaclava,144.9935199,-37.86947284,1,Train
+Windsor,144.9920389,-37.85603784,1,Train
+Prahran,144.9898659,-37.84950284,1,Train
+South Yarra,144.9923469,-37.83843184,1,Train
+Upfield,144.946751,-37.66606283,2,Train
+Gowrie,144.9588829,-37.70066284,2,Train
+Fawkner,144.9605549,-37.71460884,"1,2",Train
+Merlynston,144.9613179,-37.72092384,"1,2",Train
+Batman,144.9628429,-37.73351084,"1,2",Train
+Coburg,144.9633479,-37.74232784,1,Train
+Moreland,144.9618289,-37.75446784,1,Train
+Anstey,144.9606919,-37.76122584,1,Train
+Brunswick,144.9595969,-37.76770484,1,Train
+Jewell,144.9587209,-37.77497084,1,Train
+Royal Park,144.9523049,-37.78117884,1,Train
+Flemington Bridge,144.9393269,-37.78812383,1,Train
+Macaulay,144.9361759,-37.79424983,1,Train
+North Melbourne,144.9415149,-37.80629584,1,Train
+Clifton Hill,144.9954229,-37.78864084,1,Train
+Victoria Park,144.9944529,-37.79914184,1,Train
+Collingwood,144.9937509,-37.80450984,1,Train
+North Richmond,144.9925059,-37.81038284,1,Train
+West Richmond,144.9914239,-37.81493184,1,Train
+Jolimont-MCG,144.9841019,-37.81651684,1,Train
+Melton,144.572531,-37.70327581,"2,Reg",V/Line Train
+Rockbank,144.650636,-37.72924481,"2,Reg",V/Line Train
+Deer Park,144.772313,-37.77774682,"2,Reg",V/Line Train
+Macleod,145.0691529,-37.72599684,2,Train
+Watsonia,145.0838009,-37.71094084,2,Train
+Greensborough,145.1082549,-37.70393685,2,Train
+Montmorency,145.1215169,-37.71528385,2,Train
+Eltham,145.1478329,-37.71353885,2,Train
+Diamond Creek,145.1585149,-37.67327985,2,Train
+Wattle Glen,145.1816249,-37.66395285,2,Train
+Hurstbridge,145.1920179,-37.63938885,2,Train
+Williamstown,144.9053299,-37.86774083,1,Train
+Williamstown Beach,144.8944929,-37.86396883,1,Train
+North Williamstown,144.8890729,-37.85731683,1,Train
+Newport,144.8836099,-37.84270083,1,Train
+Spotswood,144.8859409,-37.83062183,1,Train
+Yarraville,144.8899399,-37.81583583,1,Train
+Seddon,144.8956739,-37.80898783,1,Train
+Sunbury,144.728173,-37.57918982,"2,Reg",V/Line Train
+Diggers Rest,144.719924,-37.62699982,"2,Reg",V/Line Train
+Watergardens,144.774192,-37.70111482,2,Train
+Keilor Plains,144.793739,-37.72926282,2,Train
+St Albans,144.800061,-37.74484583,2,Train
+Ginifer,144.809577,-37.75749583,2,Train
+Albion,144.824715,-37.77764183,"1,2",Train
+Epping,145.0301239,-37.65237484,2,Train
+Lalor,145.0172009,-37.66583984,2,Train
+Thomastown,145.0142899,-37.68032184,2,Train
+Keon Park,145.0118889,-37.69485384,2,Train
+Ruthven,145.0095199,-37.70788584,2,Train
+Reservoir,145.0069989,-37.71687584,"1,2",Train
+Regent,145.0027769,-37.72838684,"1,2",Train
+Preston,145.0005329,-37.73866084,"1,2",Train
+Bell,145.0001579,-37.74555284,1,Train
+Thornbury,144.9985819,-37.75503484,1,Train
+Croxton,144.9970629,-37.76408484,1,Train
+Northcote,144.9952879,-37.76985184,1,Train
+Merri,144.9929819,-37.77782984,1,Train
+Rushall,144.9924089,-37.78320384,1,Train
+Ardeer,144.802199,-37.78304983,"2,Reg",V/Line Train
+Sunshine,144.832886,-37.78852183,"1,2",Train
+Tottenham,144.862954,-37.79924183,1,Train
+West Footscray,144.885333,-37.80179883,1,Train
+Middle Footscray,144.8914799,-37.80248783,1,Train
+Footscray,144.9031999,-37.80107183,1,Train
+South Kensington,144.9254749,-37.79951983,1,Train
+Craigieburn,144.943315,-37.60191183,"2,Reg",V/Line Train
+Broadmeadows,144.919621,-37.68303783,2,Train
+Jacana,144.915861,-37.69511983,2,Train
+Glenroy,144.917225,-37.70452083,"1,2",Train
+Oak Park,144.921521,-37.71793583,"1,2",Train
+Pascoe Vale,144.9282,-37.73074083,"1,2",Train
+Strathmore,144.927326,-37.74357983,1,Train
+Glenbervie,144.92095,-37.74720083,1,Train
+Essendon,144.916204,-37.75599483,1,Train
+Moonee Ponds,144.919164,-37.76569083,1,Train
+Ascot Vale,144.9218309,-37.77529683,1,Train
+Newmarket,144.9289899,-37.78731283,1,Train
+Kensington,144.9305309,-37.79376383,1,Train
+Box Hill,145.1214329,-37.81920585,2,Train
+Southern Cross,144.9525299,-37.81831984,"1,Reg",V/Line Train
+Albury,146.9245238,-36.08424997,Reg,V/Line Train
+Ararat,142.9369183,-37.2821887,Reg,V/Line Train
+Avenel,145.229523,-36.89363085,"8,9,Reg",V/Line Train
+Bacchus Marsh,144.436794,-37.6875688,"2,3,Reg",V/Line Train
+Bairnsdale,147.6276205,-37.82870403,Reg,V/Line Train
+Ballan,144.2254491,-37.60428679,"4,5,Reg",V/Line Train
+Ballarat,143.8594582,-37.55877676,"8,Reg",V/Line Train
+Beaufort,143.3822393,-37.42786173,"12,13,Reg",V/Line Train
+Benalla,145.9839199,-36.5445359,Reg,V/Line Train
+Bendigo,144.2830182,-36.76565978,"13,Reg",V/Line Train
+Birregurra,143.7836261,-38.32879376,"10,Reg",V/Line Train
+Broadford,145.043015,-37.20718884,"4,5,Reg",V/Line Train
+Bunyip,145.7207678,-38.09909689,"4,5,Reg",V/Line Train
+Camperdown,143.1509382,-38.22888672,Reg,V/Line Train
+Castlemaine,144.2138071,-37.06282278,"10,9,Reg",V/Line Train
+Chiltern,146.6113858,-36.15562094,Reg,V/Line Train
+Clarkefield,144.745374,-37.48348382,"2,Reg",V/Line Train
+Colac,143.5866641,-38.34336475,"11,12,Reg",V/Line Train
+Corio,144.379776,-38.0728218,"3,4,Reg",V/Line Train
+Dingee,144.2311262,-36.36922178,Reg,V/Line Train
+Donnybrook,144.969871,-37.54257883,2,V/Line Train
+Drouin,145.8559487,-38.1364399,"6,Reg",V/Line Train
+Eaglehawk,144.2483882,-36.71851478,"13,Reg",V/Line Train
+Echuca,144.7534691,-36.13097181,Reg,V/Line Train
+Elmore,144.6077591,-36.4950038,"14,Reg",V/Line Train
+Euroa,145.5678709,-36.74913187,"12,Reg",V/Line Train
+Garfield,145.6742258,-38.09101689,"4,5,Reg",V/Line Train
+Geelong,144.354998,-38.1442278,"4,Reg",V/Line Train
+Gisborne,144.598724,-37.45881181,"3,4,Reg",V/Line Train
+Heathcote Junction,145.026311,-37.36771884,2,V/Line Train
+Kangaroo Flat,144.2489992,-36.79482478,"12,13,Reg",V/Line Train
+Kerang,143.9244363,-35.73310975,Reg,V/Line Train
+Kilmore East,144.983571,-37.29319483,"3,4,Reg",V/Line Train
+Kyneton,144.4506081,-37.2582638,"6,7,Reg",V/Line Train
+Lara,144.414408,-38.0224148,"2,3,4",V/Line Train
+Little River,144.498491,-37.96291481,2,V/Line Train
+Longwarry,145.7668658,-38.11097889,"5,6,Reg",V/Line Train
+Macedon,144.561403,-37.42356381,"3,4,Reg",V/Line Train
+Malmsbury,144.3753311,-37.18973079,"7,8,Reg",V/Line Train
+Marshall,144.355061,-38.1985368,"4,Reg",V/Line Train
+Moe,146.2627037,-38.17669993,"10,9,Reg",V/Line Train
+Mooroopna,145.358223,-36.39911385,"14,Reg",V/Line Train
+Morwell,146.3967576,-38.23670994,"11,Reg",V/Line Train
+Murchison East,145.240646,-36.61313685,"11,12,Reg",V/Line Train
+Nagambie,145.160364,-36.78544684,"10,9,Reg",V/Line Train
+Nar Nar Goon,145.5716758,-38.08157688,"3,4,Reg",V/Line Train
+North Geelong,144.352283,-38.1228228,"3,4,Reg",V/Line Train
+North Shore,144.365329,-38.0983598,"3,4,Reg",V/Line Train
+Pyramid,144.1131363,-36.05309977,Reg,V/Line Train
